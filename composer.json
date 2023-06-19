@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "effectra/config": "^1.0"
+        "effectra/config": "1.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
